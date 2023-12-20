@@ -1,5 +1,15 @@
-# 💫 Hello !
-👋 I am Kishor kunal.<br>Welcome to my GitHub profile! Here you'll find a collection of my projects, code repositories, and contributions to the open-source community. I'm passionate about creating innovative solutions and pushing the boundaries of technology. 🔥💻<br><br>🧑‍💻 About Me<br>I'm a Web developer, with a keen interest in development and designing of decent websites. I love diving into new technologies, exploring their possibilities, and bringing ideas to life through code. With a strong background in HTML, CSS and JS, I strive to deliver high-quality and impactful solutions. 🚀🌟<br><br>I am currently learning advance framework like NEXT.js. Working on designs with amazing UI like chakra and Material UI, also learning about backend.<br><br>If you have any queries and want to know more, feel free to connect me on Linkedin. You are always 🤗❤️. <br><br>I love my work ❤️.<br><br>And i love reading books too 😊📚.
+
+💫 Hello, I'm Kishor Kunal!
+👋 Welcome to my GitHub profile, where innovation meets code! Here, you'll discover a showcase of my projects, code repositories, and contributions to the vibrant open-source community. I am deeply passionate about crafting innovative solutions and continuously pushing the boundaries of technology. 🔥💻
+
+🧑‍💻 About Me
+I am a dedicated web developer with a profound interest in creating aesthetically pleasing websites. My journey involves exploring new technologies, uncovering their potential, and transforming ideas into reality through code. Armed with a robust foundation in HTML, CSS, and JS, I am committed to delivering high-quality and impactful solutions. 🚀🌟
+
+Currently, I am on a learning journey with advanced frameworks like NEXT.js, honing my design skills with UI libraries such as Chakra and Material UI, and delving into the world of backend development.
+
+If you have any queries or just want to connect, feel free to reach out to me on LinkedIn. Your questions and thoughts are always welcome! 🤗❤️
+
+I find joy in my work ❤️ and indulge in the pleasure of reading books too 😊📚.
 
 
 ## 🌐 Socials:

@@ -1,10 +1,17 @@
 
-# 💫 Hello !
-👋 I am Kishor kunal.<br>Welcome to my GitHub profile! Here you'll find a collection of my projects, code repositories, and contributions to the open-source community. I'm passionate about creating innovative solutions and pushing the boundaries of technology. 🔥💻<br><br>🧑‍💻 About Me<br>I'm a Web developer, with a keen interest in development and designing of decent websites. I love diving into new technologies, exploring their possibilities, and bringing ideas to life through code. With a strong background in HTML, CSS and JS, I strive to deliver high-quality and impactful solutions. 🚀🌟<br><br>I am currently learning advance framework like NEXT.js. Working on designs with amazing UI like chakra and Material UI, also learning about backend.<br><br>If you have any queries and want to know more, feel free to connect me on Linkedin. You are always 🤗❤️. <br><br>I love my work ❤️.<br><br>And i love reading books too 😊📚.
+# 💫 Hello!  
+👋 I’m Kishor Kunal.  
+Welcome to my GitHub profile! I’m a **Frontend Developer** and **Co-Creator at AuraUI**, passionate about building modern, responsive web applications with innovative UI designs.  
 
+### 🧑‍💻 About Me  
+I have hands-on experience with frameworks and libraries like **Next.js**, **React.js**, **Tailwind CSS**, **Chakra UI**, and **Material UI**. My work primarily focuses on creating reusable components, integrating APIs, and optimizing performance for seamless user experiences.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kishor-kunal-8a5656196) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@btwitskishor) 
+I’ve worked on exciting projects like **AuraUI**, where I built dynamic and responsive interfaces using **Next.js** and **Shadcn UI**. I’ve also contributed to **Kirak.ai** as a frontend intern, developing interactive UI components and integrating APIs. 
+
+Currently, I’m honing my skills with advanced frameworks and diving deeper into backend development to become a more versatile developer.  
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kishor-kunal-8a5656196/) or check out my [portfolio](https://kishor-kunal-portfolio.vercel.app/). I’m always open to learning, collaboration, and new opportunities! 🤗❤️  
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kunalkumar156&theme=dark&hide_border=false)<br/>
